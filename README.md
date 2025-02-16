@@ -14,6 +14,9 @@ Code never lies, comments sometimes do
 ![](https://github-profile-trophy.vercel.app/?username=Dayana-N&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dayana-N&icon=5&color=1)](https://visitcount.itsvg.in)
+<div align="center">
+        <img alt="Visitor Stats" 
+            src="https://widgetbite.com/stats/Dayana-N"/>  
+    </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
